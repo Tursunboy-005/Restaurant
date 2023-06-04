@@ -1,4 +1,5 @@
-﻿using System;
+﻿namespace Restaurant;
+using System;
 using System.Collections.Generic;
 
 // Base class for User
