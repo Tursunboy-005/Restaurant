@@ -1,10 +1,13 @@
-﻿namespace Restaurant
+﻿namespace Restaurant;
+using System;
+using System.Collections.Generic;
+
+// Base class for User
+
+class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine();
     }
 }
